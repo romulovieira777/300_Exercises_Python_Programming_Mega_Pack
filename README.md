@@ -4,6 +4,6 @@
 - [Section 01 - Tips](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_01_Tips)
 - [Section 02 - Starter](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_02_Starter)
 - [Section 03 - Basics](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_03_Basics)
-- [Section 04 - Print() Function]()
+- [Section 04 - Print() Function](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_04_Print_Function)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
