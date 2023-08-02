@@ -5,5 +5,6 @@
 - [Section 02 - Starter](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_02_Starter)
 - [Section 03 - Basics](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_03_Basics)
 - [Section 04 - Print() Function](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_04_Print_Function)
+- [Section 05 - Calculations in Python](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_05_Calculations_In_Python)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
