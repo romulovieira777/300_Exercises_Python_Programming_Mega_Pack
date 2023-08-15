@@ -7,6 +7,7 @@
 - [Section 04 - Print() Function](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_04_Print_Function)
 - [Section 05 - Calculations in Python](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_05_Calculations_In_Python)
 - [Section 06 - Slicing](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_06_Slicing)
-- [Section 07 - Data Types]()
+- [Section 07 - Data Types](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_07_Data_Types)
+- [Section 08 - Strings]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
