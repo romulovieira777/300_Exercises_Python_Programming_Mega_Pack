@@ -11,6 +11,6 @@
 - [Section 08 - Strings](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_08_Strings)
 - [Section 09 - Data Structures](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_09_Data_Structures)
 - [Section 10 - Sets](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_10_Sets)
-- [Section 11 - Tuples]()
+- [Section 11 - Tuples](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_11_Tuples)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
