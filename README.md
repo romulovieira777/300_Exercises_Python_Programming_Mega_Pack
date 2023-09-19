@@ -18,5 +18,6 @@
 - [Section 15 - If Statement](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_15_If_Statement)
 - [Section 16 - For Loop](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_16_For_Loop)
 - [Section 17 - Break Statement](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_17_Break_Statement)
+- [Section 18 - Continue Statement]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
