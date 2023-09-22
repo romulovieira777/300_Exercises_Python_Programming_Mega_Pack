@@ -1,22 +1,31 @@
 """
-Exercise No. 110
+Exercise No. 112
 
-Two variables defined below are given:
+The following dictionary is given:
 
-    sum = 3000
-    counter = 0
+    users = {'001': 'Mark', '002': 'Monica', '003': 'Jacob'}
 
-We want to divide the variable sum by the counter variable. Using the try... except... clause handle the
-ZeroDivisionError. If the division is done correctly, print the result to the console, otherwise print to the console
-the following message:
+Try printing the value for the key:
 
-    'Division by zero.'
+    user_id = '004'
+
+In case of a KeyError, print to the console the following message:
+
+    'The 004 key is not in the dictionary. Adding key ...'
+
+Then add this key to the dictionary with the value None and print the users dictionary to the console.
+
+Expected result:
+
+    The 004 key is not in the dictionary. Adding key ...
+    {'001': 'Mark', '002': 'Monica', '003': 'Jacob', '004': None}
 """
-sum = 3000
-counter = 0
+users = {'001': 'Mark', '002': 'Monica', '003': 'Jacob'}
+user_id = '004'
 
 try:
-    result = sum / counter
-    print(result)
-except ZeroDivisionError:
-    print('Division by zero.')
+    print(users[user_id])
+except KeyError:
+    print('The 004 key is not in the dictionary. Adding key ...')
+    users[user_id] = None
+print(users)
