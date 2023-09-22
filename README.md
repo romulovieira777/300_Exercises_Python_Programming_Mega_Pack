@@ -22,6 +22,7 @@
 - [Section 19 - While Loop](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_19_While_Loop)
 - [Section 20 - Exception Handling](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_20_Exception_Handling)
 - [Section 21 - Input / Output](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_21_Input_Output)
-- [Section 22 - Reading Files]()
+- [Section 22 - Reading Files](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_22_Reading_Files)
+- [Section 23 - Saving to Files]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
