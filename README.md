@@ -27,5 +27,6 @@
 - [Section 24 - Functions](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_24_Functions)
 - [Section 25 - Built-in Functions](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_25_Builtin_Functions)
 - [Section 26 - Defining Your Own Functions](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_26_Defining_Your_Own_Functions)
+- [Section 27 - Lambda Expression]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
