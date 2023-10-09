@@ -30,6 +30,9 @@
 - [Section 27 - Lambda Expression](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_27_Lambda_Expression)
 - [Section 28 - Generators](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_28_Generators)
 - [Section 29 - Transformation of Data Structures](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_29_Transformation_of_Data_Structures)
-- [Section 30 - Set Comprehension]()
+- [Section 30 - Set Comprehension](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_30_Set_Comprehension)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
+
+
+dotz-datalake-prod-file-temp
