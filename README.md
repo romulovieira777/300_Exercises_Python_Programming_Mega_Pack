@@ -33,6 +33,3 @@
 - [Section 30 - Set Comprehension](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_30_Set_Comprehension)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
-
-
-dotz-datalake-prod-file-temp
