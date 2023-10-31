@@ -35,5 +35,6 @@
 - [Section 32 - Dict Comprehension](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_32_Dict_Comprehension)
 - [Section 33 - Built-in Packages](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_33_Built_in_Packages)
 - [Section 34 - Built-in Modules and Packages](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_34_Built_in_Modules_and_Packages)
+- [Section 35 - Summary]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
