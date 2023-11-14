@@ -36,5 +36,6 @@
 - [Section 33 - Built-in Packages](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_33_Built_in_Packages)
 - [Section 34 - Built-in Modules and Packages](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_34_Built_in_Modules_and_Packages)
 - [Section 35 - Summary](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_35_Summary)
+- [Section 36 - Advanced](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_36_Advanced)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
