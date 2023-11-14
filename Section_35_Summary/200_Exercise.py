@@ -10,8 +10,8 @@ we define as:
 
     v * w = v1 * w1 + v2 * w2 + ... + vn * wn
 
-Implement a function called dot_product() that takes two lists of the same length (vectors) and calculate the dot product. We
-assume that user gives a correctly defined vector.
+Implement a function called dot_product() that takes two lists of the same length (vectors) and calculate the dot
+product. We assume that user gives a correctly defined vector.
 
 Example:
 

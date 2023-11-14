@@ -1,8 +1,8 @@
 """
 Exercise No. 199
 
-Using the previous exercise, implement a function called detect_class(), which in the place of the highest probability value in the row
-puts 1 and beyound 0 (see below).
+Using the previous exercise, implement a function called detect_class(), which in the place of the highest probability
+value in the row puts 1 and beyond 0 (see below).
 
 We assume that the user passes the matrix as a nested list with non-negative elements and sum in each row equal to 1.
 
