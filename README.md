@@ -38,5 +38,6 @@
 - [Section 35 - Summary](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_35_Summary)
 - [Section 36 - Advanced](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_36_Advanced)
 - [Section 37 - Exercises 201-210](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_37_Exercises_201_210)
+- [Section 38 - Exercises 211-220]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
