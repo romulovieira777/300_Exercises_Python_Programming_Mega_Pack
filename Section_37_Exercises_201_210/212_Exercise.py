@@ -10,14 +10,14 @@ Some examples of palindromic numbers:
     - 2882
     - 29492
 
-Implement a function called is_palindromic() that checks if the passed number is palindromic decimal and binary.
+Implement a function called is_palindrome() that checks if the passed number is palindromic decimal and binary.
 
 For example, the number 99 is a palindromic number and its binary notation 1100011 is also a palindromic. When these
 conditions are met, the function returns True, otherwise False.
 
 Example:
 
-    [IN]: is_palindromic(99)
+    [IN]: is_palindrome(99)
     [OUT]: True
 
 You just need to implement the function. The tests run several test cases to validate the solution.
