@@ -41,5 +41,6 @@
 - [Section 38 - Exercises 211-220](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_38_Exercises_211_220)
 - [Section 39 - Exercises 221-230](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_39_Exercises_221_230)
 - [Section 40 - Exercises 231-240](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_40_Exercises_231_240)
+- [Section 41 - Exercises 241-250](https://github.com/romulovieira777/300_Exercises_Python_Programming_Mega_Pack/tree/main/Section_41_Exercises_241_250)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-exercises-mega-pack/)
