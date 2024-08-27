@@ -20,5 +20,112 @@ A function called decimal_to_binary() that converts a number from decimal to bin
             number = number //= 2
         return result[::-1]
 
-Now consider a bitwise AND operation on binary numbers. The operation is
+Now consider a bitwise AND operation on binary numbers. The operation is applied to pairs of natural numbers by
+performing operations on the digits of the binary notation of these numbers. A bitwise AND takes two equal-length binary
+representations and performs the logical AND operation on each pair of corresponding bits, which is equivalent to
+multiplying them. Thus, if both bits in the compared position are 1, the bit in the resulting binary representation is 1
+(1 * 1 = 1); otherwise, the result is 0 (1 * 0 = 0 and 0 * 0 = 0). For example:
+
+    00001010
+    10001100
+    --------
+    00001000
+
+The above decimal numbers 10 and 140. Where the binary number os shorter, we put extra zeros on the left side to perform
+the operation. The result of this operation is the number 00001000, which is the number 8 in decimal notation. We can
+write the whole operation as follows:
+
+    10 & 140 = 8
+
+Implement a function called bitwise_and() that takes two decimal numbers as arguments and returns the result of the
+bitwise AND operation in decimal. You can use int() to convert a number from binary to decimal. In case any of the
+arguments are less than zero raise the ValueError with the message.
+
+    "Both numbers must be positive."
+
+Example:
+
+    [IN]: bitwise_and(10, 140)
+    [OUT]: 8
+
+Example:
+
+    [IN]: bitwise_and(25, 19)
+    [OUT]: 17
+
+Example:
+
+    [IN]: bitwise_and(-25, 19)
+    [OUT]: ValueError: Both numbers must be positive.
+
+You only need to implement the bitwise_and() function. The tests run several test cases to validate the solution.
 """
+
+
+def decimal_to_binary(number: int) -> str:
+    if number == 0:
+        return "0"
+    result = ""
+    while number > 0:
+        result += str(number % 2)
+        number = number // 2
+    return result[::-1]
+
+
+# My Solution
+def bitwise_and(number1: int, number2: int) -> int:
+    if number1 < 0 or number2 < 0:
+        raise ValueError("Both numbers must be positive.")
+    binary1 = decimal_to_binary(number1)
+    binary2 = decimal_to_binary(number2)
+    length = max(len(binary1), len(binary2))
+    binary1 = binary1.zfill(length)
+    binary2 = binary2.zfill(length)
+    result = ""
+    for i in range(length):
+        result += str(int(binary1[i]) * int(binary2[i]))
+    return int(result, 2)
+
+
+# Returns: 8
+print(bitwise_and(10, 140))
+
+# Returns: 17
+print(bitwise_and(25, 19))
+
+# Returns: ValueError: Both numbers must be positive.
+print(bitwise_and(-25, 19))
+
+
+# Solution from the platform
+def bitwise_and(a, b):
+    if a < 0 or b < 0:
+        raise ValueError('Both numbers must be positive.')
+
+    a_bin = decimal_to_binary(a)
+    b_bin = decimal_to_binary(b)
+
+    max_length = max(len(a_bin), len(b_bin))
+
+    a_zfill = a_bin.zfill(max_length)
+    b_zfill = b_bin.zfill(max_length)
+
+    binary_and = [
+        str(int(char_a == '1' and char_b == '1'))
+        for char_a, char_b in zip(a_zfill, b_zfill)
+    ]
+
+    binary_result = ''.join(binary_and)
+    decimal_result = int(binary_result, base=2)
+
+    return decimal_result
+
+
+# Returns: 8
+print(bitwise_and(10, 140))
+
+# Returns: 17
+print(bitwise_and(25, 19))
+
+# Returns: ValueError: Both numbers must be positive.
+print(bitwise_and(-25, 19))
